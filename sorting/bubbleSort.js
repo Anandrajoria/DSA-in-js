@@ -26,3 +26,5 @@ console.log(res);
     Average Case: O(n^2)
     worst Case: O(n^2)
  */
+
+    //space complexity = o(1)
