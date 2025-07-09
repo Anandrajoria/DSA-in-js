@@ -1,4 +1,10 @@
-
+/*
+// for n=4 
+****
+****
+****
+****
+*/
 
 let prompt = require("prompt-sync")();
 let n = prompt("enter a number ");
