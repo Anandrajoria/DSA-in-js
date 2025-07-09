@@ -1,7 +1,9 @@
-/*  //! below code is used for pattern printing
+/*  
+//! below code is used for getting input from the user
 let prompt=require('prompt-sync')()
 let a = prompt("enter a number ");
 process.stdout.write(a)
+
 */
 
 let prompt = require("prompt-sync")();
