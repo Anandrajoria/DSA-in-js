@@ -18,4 +18,3 @@ function mergeList(a,b){
 }
 
 console.log(mergeList([1,3,5],[2,4,6]));
-
