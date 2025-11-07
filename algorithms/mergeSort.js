@@ -30,3 +30,6 @@ function merge(left,right){
 }
 
 console.log(mergeSort([4,5,2,7,1,2],6));
+
+
+
