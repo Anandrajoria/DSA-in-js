@@ -13,4 +13,6 @@ function removeEle(arr, val) {
 }
 
 let count = removeEle(arr, val);
+console.log(count);
+
 console.log(arr.slice(0, count));
