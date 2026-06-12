@@ -11,10 +11,12 @@ This repository is organized by problem-solving approach so revision becomes eas
 - `reverseString.js`
 - `sortArrayByParity.js`
 - `squaresOfSortedArray.js`
+- `twoSumII.js`
 - `validMountainArray.js`
 
 ### In-Place-Modification
 - `duplicateZeros.js`
+- `findAllNumbersDisappearedInArray.js`
 - `removeElement.js`
 - `replaceElementsWithGreatestOnRight.js`
 
@@ -23,6 +25,7 @@ This repository is organized by problem-solving approach so revision becomes eas
 
 ### Greedy
 - `bestTimeToBuyAndSellStock.js`
+- `bestTimeToBuyAndSellStockII.js`
 
 ### Sorting
 - `heightChecker.js`
@@ -33,10 +36,14 @@ This repository is organized by problem-solving approach so revision becomes eas
 ### Simulation
 - `totalWavinessOfNumbers.js`
 
+### Functional-Programming
+- `arrayReduceTransformation.js`
+
 ### Math
 - `checkPrimeNumber.js`
 - `countDigits.js`
 - `countNumbersWithEvenDigits.js`
+- `numberOfStepsToReduceNumberToZero.js`
 - `sumOfNaturalNumbers.js`
 
 ### Conditionals
@@ -48,3 +55,4 @@ This repository is organized by problem-solving approach so revision becomes eas
 
 ### Dynamic-Programming
 - `maximumSubarrayKadane.js`
+- `maximumSubarraySumKadane.js`
