@@ -4,11 +4,15 @@ This repository is organized by problem-solving approach so revision becomes eas
 
 ## Arrays
 
+### Bit-Manipulation
+- `singleNumber.js`
+
 ### Two-Pointers
 - `moveZeroes.js`
 - `removeDuplicatesAtMostTwice.js`
 - `removeDuplicatesFromSortedArray.js`
 - `reverseString.js`
+- `rotateArray.js`
 - `sortArrayByParity.js`
 - `squaresOfSortedArray.js`
 - `twoSumII.js`
@@ -36,6 +40,9 @@ This repository is organized by problem-solving approach so revision becomes eas
 ### Simulation
 - `totalWavinessOfNumbers.js`
 
+### Sliding-Window
+- `maximumConsecutiveOnes.js`
+
 ### Functional-Programming
 - `arrayReduceTransformation.js`
 
@@ -43,6 +50,7 @@ This repository is organized by problem-solving approach so revision becomes eas
 - `checkPrimeNumber.js`
 - `countDigits.js`
 - `countNumbersWithEvenDigits.js`
+- `missingNumber.js`
 - `numberOfStepsToReduceNumberToZero.js`
 - `sumOfNaturalNumbers.js`
 
@@ -56,3 +64,8 @@ This repository is organized by problem-solving approach so revision becomes eas
 ### Dynamic-Programming
 - `maximumSubarrayKadane.js`
 - `maximumSubarraySumKadane.js`
+
+## Strings
+
+### Mapping
+- `weightedWordMapping.js`
