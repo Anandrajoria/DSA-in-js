@@ -5,6 +5,7 @@ This repository is organized by problem-solving approach so revision becomes eas
 ## Arrays
 
 ### Bit-Manipulation
+- `powerOfTwo.js`
 - `singleNumber.js`
 
 ### Two-Pointers
@@ -37,6 +38,9 @@ This repository is organized by problem-solving approach so revision becomes eas
 ### Tracking
 - `thirdMaximumNumber.js`
 
+### Voting-Algorithm
+- `majorityElement.js`
+
 ### Simulation
 - `totalWavinessOfNumbers.js`
 
@@ -52,6 +56,7 @@ This repository is organized by problem-solving approach so revision becomes eas
 - `countNumbersWithEvenDigits.js`
 - `missingNumber.js`
 - `numberOfStepsToReduceNumberToZero.js`
+- `subtractProductAndSumOfDigits.js`
 - `sumOfNaturalNumbers.js`
 
 ### Conditionals
@@ -64,6 +69,11 @@ This repository is organized by problem-solving approach so revision becomes eas
 ### Dynamic-Programming
 - `maximumSubarrayKadane.js`
 - `maximumSubarraySumKadane.js`
+
+### Recursion
+- `factorialUsingRecursion.js`
+- `fibonacciNumber.js`
+- `sumOfArrayUsingRecursion.js`
 
 ## Strings
 
