@@ -42,6 +42,7 @@ This repository is organized by problem-solving approach so revision becomes eas
 - `majorityElement.js`
 
 ### Simulation
+- `buildArrayFromPermutation.js`
 - `totalWavinessOfNumbers.js`
 
 ### Sliding-Window
@@ -73,6 +74,7 @@ This repository is organized by problem-solving approach so revision becomes eas
 ### Recursion
 - `factorialUsingRecursion.js`
 - `fibonacciNumber.js`
+- `reverseStringUsingRecursion.js`
 - `sumOfArrayUsingRecursion.js`
 
 ## Strings
