@@ -74,6 +74,7 @@ This repository is organized by problem-solving approach so revision becomes eas
 ### Recursion
 - `factorialUsingRecursion.js`
 - `fibonacciNumber.js`
+- `nthTribonacciNumber.js`
 - `reverseStringUsingRecursion.js`
 - `sumOfArrayUsingRecursion.js`
 
@@ -81,3 +82,6 @@ This repository is organized by problem-solving approach so revision becomes eas
 
 ### Mapping
 - `weightedWordMapping.js`
+
+### Simulation
+- `processSpecialCharacters.js`
