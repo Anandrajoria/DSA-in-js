@@ -4,6 +4,12 @@ This repository is organized by problem-solving approach so revision becomes eas
 
 ## Arrays
 
+### Binary-Search
+- `binarySearch.js`
+- `findSmallestLetterGreaterThanTarget.js`
+- `guessNumberHigherOrLower.js`
+- `searchInsertPosition.js`
+
 ### Bit-Manipulation
 - `powerOfTwo.js`
 - `singleNumber.js`
@@ -33,6 +39,7 @@ This repository is organized by problem-solving approach so revision becomes eas
 - `bestTimeToBuyAndSellStockII.js`
 
 ### Sorting
+- `bubbleSort.js`
 - `heightChecker.js`
 
 ### Tracking
@@ -85,3 +92,4 @@ This repository is organized by problem-solving approach so revision becomes eas
 
 ### Simulation
 - `processSpecialCharacters.js`
+- `kthCharacterAfterStringOperations.js`
