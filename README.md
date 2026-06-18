@@ -41,6 +41,7 @@ This repository is organized by problem-solving approach so revision becomes eas
 ### Sorting
 - `bubbleSort.js`
 - `heightChecker.js`
+- `selectionSort.js`
 
 ### Tracking
 - `thirdMaximumNumber.js`
@@ -59,6 +60,7 @@ This repository is organized by problem-solving approach so revision becomes eas
 - `arrayReduceTransformation.js`
 
 ### Math
+- `angleBetweenHandsOfClock.js`
 - `checkPrimeNumber.js`
 - `countDigits.js`
 - `countNumbersWithEvenDigits.js`
