@@ -15,6 +15,7 @@ This repository is organized by problem-solving approach so revision becomes eas
 - `singleNumber.js`
 
 ### Two-Pointers
+- `mergeSortedArray.js`
 - `moveZeroes.js`
 - `removeDuplicatesAtMostTwice.js`
 - `removeDuplicatesFromSortedArray.js`
@@ -41,6 +42,8 @@ This repository is organized by problem-solving approach so revision becomes eas
 ### Sorting
 - `bubbleSort.js`
 - `heightChecker.js`
+- `insertionSort.js`
+- `mergeSort.js`
 - `selectionSort.js`
 
 ### Tracking
@@ -68,6 +71,9 @@ This repository is organized by problem-solving approach so revision becomes eas
 - `numberOfStepsToReduceNumberToZero.js`
 - `subtractProductAndSumOfDigits.js`
 - `sumOfNaturalNumbers.js`
+
+### Prefix-Sum
+- `highestAltitude.js`
 
 ### Conditionals
 - `isValidTriangle.js`
