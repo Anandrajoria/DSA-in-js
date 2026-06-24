@@ -101,3 +101,7 @@ This repository is organized by problem-solving approach so revision becomes eas
 ### Simulation
 - `processSpecialCharacters.js`
 - `kthCharacterAfterStringOperations.js`
+
+## Linked-List
+
+- `designLinkedList.js`
