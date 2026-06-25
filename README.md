@@ -105,3 +105,4 @@ This repository is organized by problem-solving approach so revision becomes eas
 ## Linked-List
 
 - `designLinkedList.js`
+- `middleOfLinkedList.js`
