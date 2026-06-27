@@ -105,4 +105,10 @@ This repository is organized by problem-solving approach so revision becomes eas
 ## Linked-List
 
 - `designLinkedList.js`
+- `linkedListCycle.js`
 - `middleOfLinkedList.js`
+- `reverseLinkedList.js`
+
+## Patterns
+
+- `squareStarPattern.js`
