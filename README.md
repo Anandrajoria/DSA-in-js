@@ -105,8 +105,11 @@ This repository is organized by problem-solving approach so revision becomes eas
 ## Linked-List
 
 - `designLinkedList.js`
+- `intersectionOfTwoLinkedLists.js`
 - `linkedListCycle.js`
 - `middleOfLinkedList.js`
+- `palindromeLinkedList.js`
+- `removeLinkedListElements.js`
 - `reverseLinkedList.js`
 
 ## Patterns
