@@ -102,6 +102,9 @@ This repository is organized by problem-solving approach so revision becomes eas
 - `processSpecialCharacters.js`
 - `kthCharacterAfterStringOperations.js`
 
+### Substring
+- `countStringsThatAppearAsSubstrings.js`
+
 ## Linked-List
 
 - `designLinkedList.js`
@@ -109,7 +112,9 @@ This repository is organized by problem-solving approach so revision becomes eas
 - `linkedListCycle.js`
 - `middleOfLinkedList.js`
 - `palindromeLinkedList.js`
+- `removeDuplicatesFromSortedLinkedList.js`
 - `removeLinkedListElements.js`
+- `removeNthNodeFromEnd.js`
 - `reverseLinkedList.js`
 
 ## Patterns
