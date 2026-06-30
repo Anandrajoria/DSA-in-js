@@ -75,6 +75,9 @@ This repository is organized by problem-solving approach so revision becomes eas
 ### Prefix-Sum
 - `highestAltitude.js`
 
+### Validation
+- `countNegativeNumbers.js`
+
 ### Conditionals
 - `isValidTriangle.js`
 - `minimumOfThreeNumbers.js`
@@ -111,6 +114,7 @@ This repository is organized by problem-solving approach so revision becomes eas
 - `intersectionOfTwoLinkedLists.js`
 - `linkedListCycle.js`
 - `middleOfLinkedList.js`
+- `oddEvenLinkedList.js`
 - `palindromeLinkedList.js`
 - `removeDuplicatesFromSortedLinkedList.js`
 - `removeLinkedListElements.js`
