@@ -108,11 +108,19 @@ This repository is organized by problem-solving approach so revision becomes eas
 ### Substring
 - `countStringsThatAppearAsSubstrings.js`
 
+### Two-Pointers
+- `validPalindrome.js`
+
 ## Linked-List
 
+- `addTwoNumbers.js`
+- `addTwoNumbersII.js`
+- `arrayToLinkedList.js`
 - `designLinkedList.js`
 - `intersectionOfTwoLinkedLists.js`
+- `linkedListToArray.js`
 - `linkedListCycle.js`
+- `mergeTwoSortedLists.js`
 - `middleOfLinkedList.js`
 - `oddEvenLinkedList.js`
 - `palindromeLinkedList.js`
@@ -120,6 +128,8 @@ This repository is organized by problem-solving approach so revision becomes eas
 - `removeLinkedListElements.js`
 - `removeNthNodeFromEnd.js`
 - `reverseLinkedList.js`
+- `rotateList.js`
+- `swapNodesInPairs.js`
 
 ## Patterns
 
