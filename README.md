@@ -120,14 +120,17 @@ This repository is organized by problem-solving approach so revision becomes eas
 - `intersectionOfTwoLinkedLists.js`
 - `linkedListToArray.js`
 - `linkedListCycle.js`
+- `linkedListCycleII.js`
 - `mergeTwoSortedLists.js`
 - `middleOfLinkedList.js`
 - `oddEvenLinkedList.js`
 - `palindromeLinkedList.js`
+- `partitionList.js`
 - `removeDuplicatesFromSortedLinkedList.js`
 - `removeLinkedListElements.js`
 - `removeNthNodeFromEnd.js`
 - `reverseLinkedList.js`
+- `reverseLinkedListII.js`
 - `rotateList.js`
 - `swapNodesInPairs.js`
 
