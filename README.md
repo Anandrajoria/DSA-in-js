@@ -98,8 +98,19 @@ This repository is organized by problem-solving approach so revision becomes eas
 
 ## Strings
 
+### Hashing
+- `jewelsAndStones.js`
+- `maximumFrequencySum.js`
+- `validAnagram.js`
+
+### Iteration
+- `lengthOfLastWord.js`
+
 ### Mapping
 - `weightedWordMapping.js`
+
+### Search
+- `findWordsContainingCharacter.js`
 
 ### Simulation
 - `processSpecialCharacters.js`
