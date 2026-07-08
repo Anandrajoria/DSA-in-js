@@ -32,6 +32,9 @@ This repository is organized by problem-solving approach so revision becomes eas
 - `removeElement.js`
 - `replaceElementsWithGreatestOnRight.js`
 
+### Intervals
+- `removeCoveredIntervals.js`
+
 ### Hashing
 - `checkIfDoubleExists.js`
 
@@ -70,6 +73,7 @@ This repository is organized by problem-solving approach so revision becomes eas
 - `missingNumber.js`
 - `numberOfStepsToReduceNumberToZero.js`
 - `subtractProductAndSumOfDigits.js`
+- `sumAndMultiply.js`
 - `sumOfNaturalNumbers.js`
 
 ### Prefix-Sum
@@ -97,6 +101,9 @@ This repository is organized by problem-solving approach so revision becomes eas
 - `sumOfArrayUsingRecursion.js`
 
 ## Strings
+
+### Greedy
+- `splitBalancedString.js`
 
 ### Hashing
 - `jewelsAndStones.js`
