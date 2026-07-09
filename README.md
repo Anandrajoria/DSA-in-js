@@ -129,6 +129,10 @@ This repository is organized by problem-solving approach so revision becomes eas
 ### Two-Pointers
 - `validPalindrome.js`
 
+### Transformation
+- `capitalizeWords.js`
+- `toggleStringCase.js`
+
 ## Linked-List
 
 - `addTwoNumbers.js`
