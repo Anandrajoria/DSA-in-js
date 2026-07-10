@@ -116,6 +116,10 @@ This repository is organized by problem-solving approach so revision becomes eas
 ### Mapping
 - `weightedWordMapping.js`
 
+### Reversal
+- `reverseStringII.js`
+- `reverseWordsInStringIII.js`
+
 ### Search
 - `findWordsContainingCharacter.js`
 
@@ -132,6 +136,9 @@ This repository is organized by problem-solving approach so revision becomes eas
 ### Transformation
 - `capitalizeWords.js`
 - `toggleStringCase.js`
+
+### Validation
+- `validateIPAddress.js`
 
 ## Linked-List
 
