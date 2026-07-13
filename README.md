@@ -37,6 +37,7 @@ This repository is organized by problem-solving approach so revision becomes eas
 
 ### Hashing
 - `checkIfDoubleExists.js`
+- `rankTransformOfArray.js`
 
 ### Greedy
 - `bestTimeToBuyAndSellStock.js`
@@ -72,6 +73,7 @@ This repository is organized by problem-solving approach so revision becomes eas
 - `countNumbersWithEvenDigits.js`
 - `missingNumber.js`
 - `numberOfStepsToReduceNumberToZero.js`
+- `optimizedPrimeCheck.js`
 - `subtractProductAndSumOfDigits.js`
 - `sumAndMultiply.js`
 - `sumOfNaturalNumbers.js`
@@ -131,6 +133,7 @@ This repository is organized by problem-solving approach so revision becomes eas
 - `countStringsThatAppearAsSubstrings.js`
 
 ### Two-Pointers
+- `stringPalindromeCheck.js`
 - `validPalindrome.js`
 
 ### Transformation
