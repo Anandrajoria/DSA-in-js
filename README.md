@@ -71,9 +71,11 @@ This repository is organized by problem-solving approach so revision becomes eas
 - `checkPrimeNumber.js`
 - `countDigits.js`
 - `countNumbersWithEvenDigits.js`
+- `gcdOfOddEvenSums.js`
 - `missingNumber.js`
 - `numberOfStepsToReduceNumberToZero.js`
 - `optimizedPrimeCheck.js`
+- `sequentialDigits.js`
 - `subtractProductAndSumOfDigits.js`
 - `sumAndMultiply.js`
 - `sumOfNaturalNumbers.js`
@@ -105,6 +107,7 @@ This repository is organized by problem-solving approach so revision becomes eas
 ## Strings
 
 ### Greedy
+- `largestOddNumberInString.js`
 - `splitBalancedString.js`
 
 ### Hashing
@@ -118,11 +121,15 @@ This repository is organized by problem-solving approach so revision becomes eas
 ### Mapping
 - `weightedWordMapping.js`
 
+### Prefix
+- `longestCommonPrefix.js`
+
 ### Reversal
 - `reverseStringII.js`
 - `reverseWordsInStringIII.js`
 
 ### Search
+- `findFirstOccurrenceInString.js`
 - `findWordsContainingCharacter.js`
 
 ### Simulation
