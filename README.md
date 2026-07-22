@@ -69,9 +69,13 @@ This repository is organized by problem-solving approach so revision becomes eas
 ### Math
 - `angleBetweenHandsOfClock.js`
 - `checkPrimeNumber.js`
+- `closestNumberDivisibleByM.js`
 - `countDigits.js`
 - `countNumbersWithEvenDigits.js`
+- `divisibilityBy13.js`
 - `gcdOfOddEvenSums.js`
+- `gcdOfArrayMinMax.js`
+- `lcmOfTwoNumbers.js`
 - `missingNumber.js`
 - `numberOfStepsToReduceNumberToZero.js`
 - `optimizedPrimeCheck.js`
@@ -111,9 +115,12 @@ This repository is organized by problem-solving approach so revision becomes eas
 - `splitBalancedString.js`
 
 ### Hashing
+- `groupAnagrams.js`
+- `isomorphicStrings.js`
 - `jewelsAndStones.js`
 - `maximumFrequencySum.js`
 - `validAnagram.js`
+- `validAnagramUsingObject.js`
 
 ### Iteration
 - `lengthOfLastWord.js`
