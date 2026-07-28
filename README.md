@@ -8,7 +8,11 @@ This repository is organized by problem-solving approach so revision becomes eas
 - `binarySearch.js`
 - `findSmallestLetterGreaterThanTarget.js`
 - `guessNumberHigherOrLower.js`
+- `medianOfTwoSortedArrays.js`
 - `searchInsertPosition.js`
+
+### Brute-Force
+- `subarraySumEqualsK.js`
 
 ### Bit-Manipulation
 - `powerOfTwo.js`
@@ -51,6 +55,7 @@ This repository is organized by problem-solving approach so revision becomes eas
 - `selectionSort.js`
 
 ### Tracking
+- `maximumProductOfThreeNumbers.js`
 - `thirdMaximumNumber.js`
 
 ### Voting-Algorithm
@@ -72,6 +77,7 @@ This repository is organized by problem-solving approach so revision becomes eas
 - `closestNumberDivisibleByM.js`
 - `countDigits.js`
 - `countNumbersWithEvenDigits.js`
+- `decimalToBinary.js`
 - `divisibilityBy13.js`
 - `gcdOfOddEvenSums.js`
 - `gcdOfArrayMinMax.js`
@@ -109,6 +115,9 @@ This repository is organized by problem-solving approach so revision becomes eas
 - `sumOfArrayUsingRecursion.js`
 
 ## Strings
+
+### Generation
+- `uppercaseAlphabetAtoZ.js`
 
 ### Greedy
 - `largestOddNumberInString.js`
