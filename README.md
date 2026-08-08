@@ -42,6 +42,8 @@ This repository is organized by problem-solving approach so revision becomes eas
 ### Hashing
 - `checkIfDoubleExists.js`
 - `rankTransformOfArray.js`
+- `removeDuplicatesFromUnsortedArray.js`
+- `twoSum.js`
 
 ### Greedy
 - `bestTimeToBuyAndSellStock.js`
@@ -121,6 +123,7 @@ This repository is organized by problem-solving approach so revision becomes eas
 
 ### Greedy
 - `largestOddNumberInString.js`
+- `minimumPushesToTypeWordI.js`
 - `splitBalancedString.js`
 
 ### Hashing
@@ -128,6 +131,7 @@ This repository is organized by problem-solving approach so revision becomes eas
 - `isomorphicStrings.js`
 - `jewelsAndStones.js`
 - `maximumFrequencySum.js`
+- `minimumPushesToTypeWordII.js`
 - `validAnagram.js`
 - `validAnagramUsingObject.js`
 
@@ -188,6 +192,10 @@ This repository is organized by problem-solving approach so revision becomes eas
 - `reverseLinkedListII.js`
 - `rotateList.js`
 - `swapNodesInPairs.js`
+
+## Stack
+
+- `implementStackUsingQueues.js`
 
 ## Patterns
 
