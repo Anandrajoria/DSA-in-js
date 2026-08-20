@@ -119,5 +119,3 @@ console.log("empty:", stack.empty());
 
 console.log("q1:", stack.q1);
 console.log("q2:", stack.q2);
-
-
