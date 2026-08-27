@@ -87,6 +87,7 @@ This repository is organized by problem-solving approach so revision becomes eas
 - `missingNumber.js`
 - `numberOfStepsToReduceNumberToZero.js`
 - `optimizedPrimeCheck.js`
+- `plusOne.js`
 - `sequentialDigits.js`
 - `subtractProductAndSumOfDigits.js`
 - `sumAndMultiply.js`
