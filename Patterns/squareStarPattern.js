@@ -10,6 +10,7 @@ PLATFORM REFERENCES:
 PROBLEM STATEMENT:
 Given n, print an n by n square grid of stars.
 
+
 ----------------------------------------------------
 EXAMPLES:
 Input:  4
